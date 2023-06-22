@@ -1,0 +1,102 @@
+.body {
+  overflow: unset;
+  
+}
+.conteiner-fluid {
+  border-style: solid;
+  border-width: 3px;
+  max-width: 50%;
+  max-height: 50%;
+  height: auto;
+  width: auto;
+
+}
+.card-title {
+  border-style: solid;
+  border-color: white;
+  font-family: Arial;
+  color:red
+}
+
+.text {
+  background-color: rgb(189, 181, 181);
+  border-style: solid;
+  border: grey;
+  font-family: Helvetica;
+}
+
+.tituloprod {
+  text-align: center;
+}
+
+.body {
+  background-color: grey;
+}
+
+.img-fluid {
+  padding: 0% 0 0% 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: inline-block;
+  height: 600px;
+  margin: auto;
+  align-items: center;
+  width: 100%;
+}
+
+.contenedor {
+  text-align: right;
+  justify-content: flex-end;
+}
+
+.pie {
+  text-align: right;
+  position: absolute;
+  background-color: grey;
+  border-style: solid;
+  border: grey;
+  font-family: Helvetica;
+  color: #03010a;
+}
+
+.bodynos {
+  background-color: #03010a;
+}
+
+.logo {
+  width: 400px;
+  height: 300px;
+  border-style: solid;
+  padding-left: 0%;
+}
+
+.textonos {
+  font-family: arial;
+  color: white;
+}
+
+.fondo {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.fondocont {
+  position: absolute;
+}
+
+.tarjeta {
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: solid;
+  color: #03010a;
+  font-family: arial;
+  padding: auto;
+}
+.navbar a:hover {
+color:blue
+}
+
+/*# sourceMappingURL=style.css.map */
